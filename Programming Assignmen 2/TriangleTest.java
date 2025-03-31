@@ -34,6 +34,7 @@ public class TriangleTest {
 }
 
 //GeometricObject class
+//Had to change class around due to debugging issues
 class GeometricObject {
     private String color;
     private boolean filled;
